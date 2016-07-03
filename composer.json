@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "^3.4",
+        "palanik/corsslim":"dev-slim3",
+        "gabordemooij/redbean": "dev-master"
+    }
+}
